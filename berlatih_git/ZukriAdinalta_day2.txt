@@ -1,5 +1,4 @@
 Nama : Zukri Adinalta
 Stack : Fullstack
-Branch : main
-
+Branch : SesiSore
 Tambahan line di main
